@@ -40,10 +40,10 @@
       }
     }
   },
-  "productName": "nextauri",
-  "mainBinaryName": "nextauri",
+  "productName": "cairo",
+  "mainBinaryName": "cairo",
   "version": "0.1.0",
-  "identifier": "com.nextauri.dev",
+  "identifier": "com.cairo.dev",
   "plugins": {},
   "app": {
     "windows": [
@@ -53,7 +53,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "nextauri",
+        "title": "cairo",
         "width": 800,
         "useHttpsScheme": true
       }

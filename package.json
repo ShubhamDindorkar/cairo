@@ -1,5 +1,5 @@
 {
-  "name": "nextauri",
+  "name": "cairo",
   "scripts": {
     "dev": "tauri dev",
     "tauri": "tauri",
