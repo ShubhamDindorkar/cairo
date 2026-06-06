@@ -6,9 +6,13 @@
     "linux"
   ],
   "windows": [
-    "main"
+    "main",
+    "settings"
   ],
   "permissions": [
-    "global-shortcut:default"
+    "autostart:default",
+    "window-state:default",
+    "updater:default",
+    "process:default"
   ]
 }
